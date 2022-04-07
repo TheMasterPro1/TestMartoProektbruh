@@ -1,0 +1,11 @@
+C:\Users\Tours\Downloads\Documents\Desktop\informatika 11 klas\MartoZadachkusBruh\MartoZadachkusBruh\bin\Debug\MartoZadachkusBruh.exe.config
+C:\Users\Tours\Downloads\Documents\Desktop\informatika 11 klas\MartoZadachkusBruh\MartoZadachkusBruh\bin\Debug\MartoZadachkusBruh.exe
+C:\Users\Tours\Downloads\Documents\Desktop\informatika 11 klas\MartoZadachkusBruh\MartoZadachkusBruh\bin\Debug\MartoZadachkusBruh.pdb
+C:\Users\Tours\Downloads\Documents\Desktop\informatika 11 klas\MartoZadachkusBruh\MartoZadachkusBruh\obj\Debug\MartoZadachkusBruh.csproj.AssemblyReference.cache
+C:\Users\Tours\Downloads\Documents\Desktop\informatika 11 klas\MartoZadachkusBruh\MartoZadachkusBruh\obj\Debug\MartoZadachkusBruh.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tours\Downloads\Documents\Desktop\informatika 11 klas\MartoZadachkusBruh\MartoZadachkusBruh\obj\Debug\MartoZadachkusBruh.Form1.resources
+C:\Users\Tours\Downloads\Documents\Desktop\informatika 11 klas\MartoZadachkusBruh\MartoZadachkusBruh\obj\Debug\MartoZadachkusBruh.Properties.Resources.resources
+C:\Users\Tours\Downloads\Documents\Desktop\informatika 11 klas\MartoZadachkusBruh\MartoZadachkusBruh\obj\Debug\MartoZadachkusBruh.csproj.GenerateResource.cache
+C:\Users\Tours\Downloads\Documents\Desktop\informatika 11 klas\MartoZadachkusBruh\MartoZadachkusBruh\obj\Debug\MartoZadachkusBruh.csproj.CoreCompileInputs.cache
+C:\Users\Tours\Downloads\Documents\Desktop\informatika 11 klas\MartoZadachkusBruh\MartoZadachkusBruh\obj\Debug\MartoZadachkusBruh.exe
+C:\Users\Tours\Downloads\Documents\Desktop\informatika 11 klas\MartoZadachkusBruh\MartoZadachkusBruh\obj\Debug\MartoZadachkusBruh.pdb
