@@ -39,6 +39,7 @@ namespace MartoZadachkusBruh
                 button2.Visible = true;
                 textBox.Visible = false;
                 textBox2.Visible = true;
+                textBox2.ForeColor = Color.White;
                 label2.Text = rnd.Next(num).ToString();
             }
             catch (Exception)
